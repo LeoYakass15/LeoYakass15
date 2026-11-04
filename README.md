@@ -4,7 +4,7 @@ Welcome to my GitHub. I'm Léo, a Master in Finance student at Bocconi and an ES
 
 On this page I share personal and academic projects: research, strategy backtests, derivatives pricing and market analysis. Most of them are in Python, some in Excel/VBA, and many use real market data (Bloomberg, FRED, ECB).
 
-I will publish a new project every week.
+I will publish a new project every week!
 
 ---
 
