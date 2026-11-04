@@ -11,7 +11,7 @@ I will publish a new project every week.
 ## 1. Investment Banking
 
 ### 1.1 Structuring
-- [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): local vol Monte Carlo pricer of a Barclays note, with Greeks and a delta/vega hedge backtest
+- [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Pricing, hedging and daily P&L explain of a Barclays Phoenix worst-of autocall (UBER/DASH/COST), using a local vol Monte Carlo calibrated to Bloomberg vol surfaces
 - [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Goldman Sachs callable CMS steepener priced with SABR and G2++, issuer call and fair leverage
   
 
