@@ -21,7 +21,7 @@ I will publish a new project every week.
   
 ### 1.3 Sales
 - [FX Hedging Tool](https://github.com/LeoYakass15/fx_hedging_tool): Excel/VBA pricer comparing forward, option, collar, participating forward and TARF hedges for a corporate exporter
-- [IR Hedging Tool](https://github.com/LeoYakass15/ir_hedging_tool): €STR/Euribor curves, swap, cap and collar hedges for a corporate loan (Excel/VBA)
+- [IR Hedging Tool](https://github.com/LeoYakass15/ir_hedging_tool): Excel/VBA tool comparing swap, floored swap, cap and collar hedges for a corporate floating-rate loan
 - [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): jet fuel / Brent hedges for an airline (Excel/VBA)
 
   
