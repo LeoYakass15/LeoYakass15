@@ -16,7 +16,7 @@ I will publish a new project every week.
   
 
 ### 1.2 Trading
-- [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo pricer with variance reduction and discrete delta hedging P&L
+- [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo option pricer and discrete delta-hedging simulator in Python: how much risk is left when you can’t hedge continuously, and what it costs
 
   
 ### 1.3 Sales
