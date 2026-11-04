@@ -33,7 +33,7 @@ I will publish a new project every week.
 - [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): Backtest of a G10 FX carry trade on 24 years of real data (2002-2026): what the rate differential pays, and what the 2008, CHF 2015 and Covid crashes cost
 
 ### 2.2 Rates Relative Value
-- [Treasury Basis Trade](https://github.com/LeoYakass15/treasury_basis_trade): futures basket, cheapest-to-deliver, leverage and the March 2020 unwind
+- [Treasury Basis Trade](https://github.com/LeoYakass15/treasury_basis_trade): Treasury Basis Trade: a hedge fund’s story through March 2020 "Same trade, opposite outcome: how leverage turned a 30bp Treasury basis into +1.7% or −8.7% for a fictional hedge fund in March 2020"
 
 ### 2.3 Volatility
 - [Short Volatility on the S&P 500](https://github.com/LeoYakass15/sp500_short_vol_backtest): straddles, strangles and put spreads, variance risk premium since 2004
