@@ -12,7 +12,7 @@ I will publish a new project every week.
 
 ### 1.1 Structuring
 - [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Pricing, hedging and daily P&L explain of a Barclays Phoenix worst-of autocall (UBER/DASH/COST), using a local vol Monte Carlo calibrated to Bloomberg vol surfaces
-- [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Goldman Sachs callable CMS steepener priced with SABR and G2++, issuer call and fair leverage
+- [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): soon
   
 
 ### 1.2 Trading
@@ -30,7 +30,7 @@ I will publish a new project every week.
 ## 2. Hedge Funds
 
 ### 2.1 Global Macro
-- [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): G10 carry backtest since 2002 and crash risk analysis
+- [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): Backtest of a G10 FX carry trade on 24 years of real data (2002-2026): what the rate differential pays, and what the 2008, CHF 2015 and Covid crashes cost
 
 ### 2.2 Rates Relative Value
 - [Treasury Basis Trade](https://github.com/LeoYakass15/treasury_basis_trade): futures basket, cheapest-to-deliver, leverage and the March 2020 unwind
