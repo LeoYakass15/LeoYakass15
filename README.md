@@ -36,7 +36,7 @@ I will publish a new project every week.
 - [Treasury Basis Trade](https://github.com/LeoYakass15/treasury_basis_trade): Treasury Basis Trade: a hedge fund’s story through March 2020 "Same trade, opposite outcome: how leverage turned a 30bp Treasury basis into +1.7% or −8.7% for a fictional hedge fund in March 2020"
 
 ### 2.3 Volatility
-- [Short Volatility on the S&P 500](https://github.com/LeoYakass15/sp500_short_vol_backtest): straddles, strangles and put spreads, variance risk premium since 2004
+- [Short Volatility on the S&P 500](https://github.com/LeoYakass15/sp500_short_vol_backtest): Selling S&P 500 volatility since 2004: how much does the insurance premium pay, and what does it cost in a crash?
 
 ---
 
