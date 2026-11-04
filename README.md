@@ -43,10 +43,9 @@ I will publish a new project every week.
 [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-yakass-372644203)
 
 ---
-[Bocconi email](leo.yakass@studbocconi.it)
+Bocconi email: leo.yakass@studbocconi.it
 
----
-[ESSEC email](leo.yakass@essec.edu)
+ESSEC email: leo.yakass@essec.edu
 
 
 
