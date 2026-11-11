@@ -12,7 +12,7 @@ I will publish a new project every week!
 
 ### 1.1 Structuring
 - [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Pricing, hedging and daily P&L explain of a Barclays Phoenix worst-of autocall (UBER/DASH/COST), using a local vol Monte Carlo calibrated to Bloomberg vol surfaces
-- [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): soon
+- [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Pricing and risk of a Goldman Sachs callable CMS steepener (EUR 2s10s): SABR vol cube, copula correlation, G2++ Monte Carlo for the issuer call, Greeks and hedging
   
 
 ### 1.2 Trading
