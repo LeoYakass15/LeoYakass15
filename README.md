@@ -17,6 +17,7 @@ I will publish a new project every week!
 
 ### 1.2 Trading
 - [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo option pricer and discrete delta-hedging simulator in Python: how much risk is left when you can’t hedge continuously, and what it costs
+- [FX Smile Pricer](https://github.com/LeoYakass15/fx_smile_pricer): next
 
   
 ### 1.3 Sales
