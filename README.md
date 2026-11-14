@@ -17,7 +17,7 @@ I will publish a new project every week until December !
 
 ### 1.2 Trading
 - [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo option pricer and discrete delta-hedging simulator in Python: how much risk is left when you can’t hedge continuously, and what it costs
-- [FX Smile Pricer](https://github.com/LeoYakass15/fx_smile_pricer): next
+- [FX Smile Pricer](https://github.com/LeoYakass15/fx_smile_pricer): EUR/USD barrier options priced on the volatility smile with Vanna-Volga, checked against Bloomberg OVML on real market data, with the smile risk seen from a hedge fund’s book
 
   
 ### 1.3 Sales
