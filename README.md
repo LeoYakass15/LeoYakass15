@@ -8,7 +8,7 @@ I will publish one new project every week and one trade idea every month !
 
 ---
 
-## 1 Coding projects
+## 1 CODING PROJECTS
 
 ## 1.1 Investment Banking
 
@@ -40,6 +40,10 @@ I will publish one new project every week and one trade idea every month !
 
 ### 1.2.3 Volatility
 - [Short Volatility on the S&P 500](https://github.com/LeoYakass15/sp500_short_vol_backtest): Selling S&P 500 volatility since 2004: how much does the insurance premium pay, and what does it cost in a crash?
+
+---
+
+## 2 TRADE IDEAS
 
 ---
 
