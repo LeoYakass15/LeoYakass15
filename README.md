@@ -10,8 +10,6 @@ I will publish one new project every week and one trade idea every month !
 
 ## 1 Coding projects
 
----
-
 ## 1.1 Investment Banking
 
 ### 1.1.1 Structuring
