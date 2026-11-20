@@ -13,7 +13,7 @@ I will publish a new project every week !
 ### 1.1 Structuring
 - [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Pricing, hedging and daily P&L explain of a Barclays Phoenix worst-of autocall (UBER/DASH/COST), using a local vol Monte Carlo calibrated to Bloomberg vol surfaces
 - [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Pricing and risk of a Goldman Sachs callable CMS steepener (EUR 2s10s): SABR vol cube, copula correlation, G2++ Monte Carlo for the issuer call, Greeks and hedging
-- [Callable Fixed Rate Notes](https://github.com/LeoYakass15/callable_fixed_rate_notes): Pricing the issuer’s call on 5 real callable notes (CDC, IBRD, GS, HSBC) with a Hull-White tree on Bloomberg data, and how the desk hedges the Bermudan swaption.
+- [Callable Fixed Rate Note](https://github.com/LeoYakass15/callable_fixed_rate_notes): Goldman Sachs 5.35% 2035 callable note: issuer’s call priced with a Hull-White tree on Bloomberg data, and how the desk hedges its Bermudan swaption
   
 
 ### 1.2 Trading
