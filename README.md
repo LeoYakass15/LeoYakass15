@@ -8,37 +8,24 @@ I will publish a new project every week !
 
 ---
 
-## 1.1 Investment Banking
+## Equity
+- [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Pricing, hedging and daily P&L explain of a Barclays worst-of Phoenix autocall, using a local vol Monte Carlo calibrated to Bloomberg vol surfaces
+- [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo option pricer and discrete delta hedging: what happens when you can't hedge continuously, and what it costs
+- [Short Volatility on the S&P 500](https://github.com/LeoYakass15/sp500_short_vol_backtest): Selling S&P 500 volatility since 2004: how much does it earn, and what does it cost in a crash?
 
-### 1.1 Structuring
-- [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Pricing, hedging and daily P&L explain of a Barclays Phoenix worst-of autocall (UBER/DASH/COST), using a local vol Monte Carlo calibrated to Bloomberg vol surfaces
-- [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Pricing and risk of a Goldman Sachs callable CMS steepener (EUR 2s10s): SABR vol cube, copula correlation, G2++ Monte Carlo for the issuer call, Greeks and hedging
-- [Callable Fixed Rate Note](https://github.com/LeoYakass15/callable_fixed_rate_notes): Goldman Sachs 5.35% 2035 callable note: issuer’s call priced with a Hull-White tree on Bloomberg data, and how the desk hedges its Bermudan swaption
-  
+## Rates
+- [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Pricing and risk of a Goldman Sachs callable CMS steepener, with SABR for the CMS rates and a G2++ Monte Carlo for the issuer call, Greeks and hedging
+- [Callable Fixed Rate Note](https://github.com/LeoYakass15/callable_fixed_rate_notes): Goldman Sachs 5.35% 2035 callable note: issuer's call priced with a Hull-White tree on Bloomberg data, and how the desk hedges its Bermudan swaption
+- [IR Hedging Tool](https://github.com/LeoYakass15/ir_hedging_tool): Excel/VBA tool comparing swap, floored swap, cap and collar hedges for a corporate loan
+- [Treasury Basis Trade](https://github.com/LeoYakass15/treasury_basis_trade): A hedge fund's story through the Treasury basis trade, and how leverage turned a 30bp basis into +1.7% or −8.7% for a fictional fund
 
-### 1.2 Trading
-- [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo option pricer and discrete delta-hedging simulator in Python: how much risk is left when you can’t hedge continuously, and what it costs
-- [FX Smile Pricer](https://github.com/LeoYakass15/fx_smile_pricer): EUR/USD barrier options priced on the volatility smile with Vanna-Volga, checked against Bloomberg OVML on real market data, with the smile risk seen from a hedge fund’s book
-
-  
-### 1.3 Sales
+## FX
+- [FX Smile Pricer](https://github.com/LeoYakass15/fx_smile_pricer): EUR/USD barrier options priced on the volatility smile with real market data, with the smile risk seen from a hedge fund's book
 - [FX Hedging Tool](https://github.com/LeoYakass15/fx_hedging_tool): Excel/VBA pricer comparing forward, option, collar, participating forward and TARF hedges for a corporate exporter
-- [IR Hedging Tool](https://github.com/LeoYakass15/ir_hedging_tool): Excel/VBA tool comparing swap, floored swap, cap and collar hedges for a corporate floating-rate loan
-- [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): Excel/VBA pricer comparing swap, cap, collar, three-way collar and double-up hedges for an airline’s jet fuel costs
+- [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): Backtest of a G10 FX carry trade on 24 years of real data, and what the 2008, CHF 2015 and Covid crashes cost
 
-  
----
-
-## 2 Hedge Funds
-
-### 2.1 Global Macro
-- [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): Backtest of a G10 FX carry trade on 24 years of real data (2002-2026): what the rate differential pays, and what the 2008, CHF 2015 and Covid crashes cost
-
-### 2.2 Rates Relative Value
-- [Treasury Basis Trade](https://github.com/LeoYakass15/treasury_basis_trade): Treasury Basis Trade: a hedge fund’s story through March 2020 "Same trade, opposite outcome: how leverage turned a 30bp Treasury basis into +1.7% or −8.7% for a fictional hedge fund in March 2020"
-
-### 2.3 Volatility
-- [Short Volatility on the S&P 500](https://github.com/LeoYakass15/sp500_short_vol_backtest): Selling S&P 500 volatility since 2004: how much does the insurance premium pay, and what does it cost in a crash?
+## Commodities
+- [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): Excel/VBA pricer comparing swap, cap, collar and three-way hedges for an airline's jet fuel costs
 
 ---
 
