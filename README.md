@@ -6,8 +6,6 @@ On this page I share personal and academic projects: research, strategy backtest
 
 I will publish a new project every week !
 
----
-
 ## Equity
 - [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Pricing, hedging and daily P&L explain of a Barclays worst-of Phoenix autocall, using a local vol Monte Carlo calibrated to Bloomberg vol surfaces
 - [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo option pricer and discrete delta hedging: what happens when you can't hedge continuously, and what it costs
