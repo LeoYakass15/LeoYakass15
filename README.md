@@ -31,7 +31,6 @@ Please feel free to reach out to me:
 
 [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-yakass-372644203)
 
----
 Bocconi email: leo.yakass@studbocconi.it
 
 ESSEC email: leo.yakass@essec.edu
