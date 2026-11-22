@@ -27,6 +27,8 @@ I will publish a new project every week !
 
 ---
 
+Please feel free to reach out to me:
+
 [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-yakass-372644203)
 
 ---
