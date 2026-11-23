@@ -25,6 +25,10 @@ I will publish a new project every week !
 ## Credit
 - Merton CDS Arbitrage: soon
 
+## Inflation
+- US Breakeven Inflation: soon
+- EUR Inflation Note: soon
+
 ## Commodities
 - [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): Excel/VBA pricer comparing swap, cap, collar and three-way hedges for an airline's jet fuel costs
 
