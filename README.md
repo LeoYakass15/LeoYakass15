@@ -22,6 +22,9 @@ I will publish a new project every week !
 - [FX Hedging Tool](https://github.com/LeoYakass15/fx_hedging_tool): Excel/VBA pricer comparing forward, option, collar, participating forward and TARF hedges for a corporate exporter
 - [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): Backtest of a G10 FX carry trade on 24 years of real data, and what the 2008, CHF 2015 and Covid crashes cost
 
+## Credit
+- soon
+
 ## Commodities
 - [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): Excel/VBA pricer comparing swap, cap, collar and three-way hedges for an airline's jet fuel costs
 
