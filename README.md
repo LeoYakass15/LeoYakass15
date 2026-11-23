@@ -4,7 +4,7 @@ Welcome to my GitHub. I'm Léo, a Master in Finance student at Bocconi and an ES
 
 On this page I share personal and academic projects: research, strategy backtests, derivatives pricing and market analysis. Most of them are in Python, some in Excel/VBA, and many use real market data (Bloomberg, FRED, ECB).
 
-I will publish at least one new project every week !
+I will publish at least one new project every week until December !
 
 ## Equity
 - [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Pricing, hedging and daily P&L explain of a Barclays worst-of Phoenix autocall, using a local vol Monte Carlo calibrated to Bloomberg vol surfaces
