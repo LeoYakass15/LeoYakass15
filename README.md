@@ -24,6 +24,7 @@ I will publish a new project every week !
 
 ## Credit
 - Merton CDS Arbitrage: soon
+- iTraxx Credit Relative Value: soon
 
 ## Inflation
 - US Breakeven Inflation: soon
