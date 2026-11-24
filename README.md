@@ -27,8 +27,8 @@ I will publish at least one new project every week until December !
 - iTraxx Credit Relative Value: soon
 
 ## Inflation
+- [EUR Inflation Note](https://github.com/LeoYakass15/eur_inflation_note): Euro inflation curve from Bloomberg zero-coupon swaps, OAT€i repricing and a 10-year 0%-floor inflation note structured for an insurer
 - US Breakeven Inflation: soon
-- EUR Inflation Note: soon
 
 ## Commodities
 - [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): Excel/VBA pricer comparing swap, cap, collar and three-way hedges for an airline's jet fuel costs
