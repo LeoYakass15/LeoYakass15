@@ -10,7 +10,7 @@ I will publish at least one new project every week until December !
 - [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Pricing, hedging and daily P&L explain of a Barclays worst-of Phoenix autocall, using a local vol Monte Carlo calibrated to Bloomberg vol surfaces
 - [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo option pricer and discrete delta hedging: what happens when you can't hedge continuously, and what it costs
 - [Short Volatility on the S&P 500](https://github.com/LeoYakass15/sp500_short_vol_backtest): Selling S&P 500 volatility since 2004: how much does it earn, and what does it cost in a crash?
-- [## LIVE VIX Futures Carry](https://github.com/LeoYakass15/live_vix_futures_carry): soon
+- [LIVE/ VIX Futures Carry](https://github.com/LeoYakass15/live_vix_futures_carry): soon
 
 ## Rates
 - [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Pricing and risk of a Goldman Sachs callable CMS steepener, with SABR for the CMS rates and a G2++ Monte Carlo for the issuer call, Greeks and hedging
@@ -35,8 +35,8 @@ I will publish at least one new project every week until December !
 - [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): Excel/VBA pricer comparing swap, cap, collar and three-way hedges for an airline's jet fuel costs
 
 ## Multi-Asset
-- [#LIVE Futures Trend Following](https://github.com/LeoYakass15/live_futures_trend_following): soon
-- [#LIVE Time-Series Momentum](https://github.com/LeoYakass15/live_sector_momentum): soon
+- [LIVE/ Futures Trend Following](https://github.com/LeoYakass15/live_futures_trend_following): soon
+- [LIVE/ Time-Series Momentum](https://github.com/LeoYakass15/live_sector_momentum): soon
 
 ---
 
