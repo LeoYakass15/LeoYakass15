@@ -33,6 +33,10 @@ I will publish at least one new project every week until December !
 ## Commodities
 - [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): Excel/VBA pricer comparing swap, cap, collar and three-way hedges for an airline's jet fuel costs
 
+## Multi-Asset
+- [Futures Trend Following](https://github.com/LeoYakass15/live_futures_trend_following): soon
+- [Time-Series Momentum](https://github.com/LeoYakass15/live_):
+
 ---
 
 Please feel free to reach out to me:
