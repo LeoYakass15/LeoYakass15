@@ -35,7 +35,7 @@ I will publish at least one new project every week until December !
 
 ## Multi-Asset
 - [Futures Trend Following](https://github.com/LeoYakass15/live_futures_trend_following): soon
-- [Time-Series Momentum](https://github.com/LeoYakass15/live_):
+- [Time-Series Momentum](https://github.com/LeoYakass15/live_sector_momentum): soon
 
 ---
 
