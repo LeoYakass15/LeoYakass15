@@ -23,7 +23,7 @@ I will publish at least one new project every week until December !
 - [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): Backtest of a G10 FX carry trade on 24 years of real data, and what the 2008, CHF 2015 and Covid crashes cost
 
 ## Credit
-- [Merton CDS Arbitrage](https://github.com/LeoYakass15/merton_cds_arbitrage): soon
+- [Merton CDS Arbitrage](https://github.com/LeoYakass15/merton_cds_arbitrage): A CreditGrades model, a 10-year equity-vs-CDS backtest and today’s signal on Bloomberg data
 - iTraxx Credit Relative Value: soon
 
 ## Inflation
