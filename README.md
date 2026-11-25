@@ -15,12 +15,12 @@ I will publish at least one new project every week until December !
 ## Rates
 - [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Goldman Sachs callable CMS steepener, priced with SABR and G2++
 - [Callable Fixed Rate Note](https://github.com/LeoYakass15/callable_fixed_rate_notes): GGoldman Sachs 2035 callable note on a Hull-White tree
-- [IR Hedging Tool](https://github.com/LeoYakass15/ir_hedging_tool): Excel/VBA tool comparing swap, floored swap, cap and collar hedges for a corporate loan
+- [IR Hedging Tool](https://github.com/LeoYakass15/ir_hedging_tool): EExcel/VBA swap, cap and collar hedges for a corporate loan
 - [Treasury Basis Trade](https://github.com/LeoYakass15/treasury_basis_trade): How leverage turns a 30bp Treasury basis into a big win or loss
 
 ## FX
 - [FX Smile Pricer](https://github.com/LeoYakass15/fx_smile_pricer): UR/USD barrier options priced on the volatility smile
-- [FX Hedging Tool](https://github.com/LeoYakass15/fx_hedging_tool): Excel/VBA pricer comparing forward, option, collar, participating forward and TARF hedges for a corporate exporter
+- [FX Hedging Tool](https://github.com/LeoYakass15/fx_hedging_tool): Excel/VBA forward, option, collar and TARF hedges for an exporter
 - [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): G10 carry backtest since 2002, and what the crashes cost
 
 ## Credit
@@ -32,7 +32,7 @@ I will publish at least one new project every week until December !
 - US Breakeven Inflation: soon
 
 ## Commodities
-- [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): Excel/VBA pricer comparing swap, cap, collar and three-way hedges for an airline's jet fuel costs
+- [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): Excel/VBA jet fuel hedges for an airline
 
 ## Multi-Asset
 - [(LIVE) Futures Trend Following](https://github.com/LeoYakass15/live_futures_trend_following): Trend following on 8 futures, tracked live every week
