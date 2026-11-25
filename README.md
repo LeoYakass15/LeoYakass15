@@ -10,7 +10,7 @@ I will publish at least one new project every week until December !
 - [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Barclays worst-of autocall, priced and hedged with local vol
 - [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo pricer and the cost of discrete hedging
 - [Short Volatility on the S&P 500](https://github.com/LeoYakass15/sp500_short_vol_backtest): Selling S&P 500 options since 2004, crashes included
-- [Options Market Making](https://github.com/LeoYakass15/options_market_making): Avellaneda-Stoikov quotes on an equity call, inventory skew and delta hedging
+- [Option Market Making](https://github.com/LeoYakass15/option_market_making): Avellaneda-Stoikov quotes on an equity call, inventory skew and delta hedging
 - [(LIVE) VIX Futures Carry](https://github.com/LeoYakass15/live_vix_futures_carry): Short VIX futures in contango, tracked live every week
 
 ## Rates
