@@ -7,28 +7,28 @@ On this page I share personal and academic projects: research, strategy backtest
 I will publish at least one new project every week until December !
 
 ## Equity
-- [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Pricing, hedging and daily P&L explain of a Barclays worst-of Phoenix autocall, using a local vol Monte Carlo calibrated to Bloomberg vol surfaces
-- [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo option pricer and discrete delta hedging: what happens when you can't hedge continuously, and what it costs
-- [Short Volatility on the S&P 500](https://github.com/LeoYakass15/sp500_short_vol_backtest): Selling S&P 500 volatility since 2004: how much does it earn, and what does it cost in a crash?
+- [Worst-of Phoenix Autocall](https://github.com/LeoYakass15/autocall_phoenix): Barclays worst-of autocall, priced and hedged with local vol
+- [Monte Carlo & Delta Hedging](https://github.com/LeoYakass15/monte_carlo_delta_hedging): Monte Carlo pricer and the cost of discrete hedging
+- [Short Volatility on the S&P 500](https://github.com/LeoYakass15/sp500_short_vol_backtest): Selling S&P 500 options since 2004, crashes included
 - [(LIVE) VIX Futures Carry](https://github.com/LeoYakass15/live_vix_futures_carry): soon
 
 ## Rates
-- [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Pricing and risk of a Goldman Sachs callable CMS steepener, with SABR for the CMS rates and a G2++ Monte Carlo for the issuer call, Greeks and hedging
-- [Callable Fixed Rate Note](https://github.com/LeoYakass15/callable_fixed_rate_notes): Goldman Sachs 5.35% 2035 callable note: issuer's call priced with a Hull-White tree on Bloomberg data, and how the desk hedges its Bermudan swaption
+- [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Goldman Sachs callable CMS steepener, priced with SABR and G2++
+- [Callable Fixed Rate Note](https://github.com/LeoYakass15/callable_fixed_rate_notes): GGoldman Sachs 2035 callable note on a Hull-White tree
 - [IR Hedging Tool](https://github.com/LeoYakass15/ir_hedging_tool): Excel/VBA tool comparing swap, floored swap, cap and collar hedges for a corporate loan
-- [Treasury Basis Trade](https://github.com/LeoYakass15/treasury_basis_trade): A hedge fund's story through the Treasury basis trade, and how leverage turned a 30bp basis into +1.7% or −8.7% for a fictional fund
+- [Treasury Basis Trade](https://github.com/LeoYakass15/treasury_basis_trade): How leverage turns a 30bp Treasury basis into a big win or loss
 
 ## FX
-- [FX Smile Pricer](https://github.com/LeoYakass15/fx_smile_pricer): EUR/USD barrier options priced on the volatility smile with real market data, with the smile risk seen from a hedge fund's book
+- [FX Smile Pricer](https://github.com/LeoYakass15/fx_smile_pricer): UR/USD barrier options priced on the volatility smile
 - [FX Hedging Tool](https://github.com/LeoYakass15/fx_hedging_tool): Excel/VBA pricer comparing forward, option, collar, participating forward and TARF hedges for a corporate exporter
-- [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): Backtest of a G10 FX carry trade on 24 years of real data, and what the 2008, CHF 2015 and Covid crashes cost
+- [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): G10 carry backtest since 2002, and what the crashes cost
 
 ## Credit
-- [Merton CDS Arbitrage](https://github.com/LeoYakass15/merton_cds_arbitrage): A CreditGrades model, a 10-year equity-vs-CDS backtest and today’s signal on Bloomberg data
+- [Merton CDS Arbitrage](https://github.com/LeoYakass15/merton_cds_arbitrage): Equity-implied credit spreads vs CDS, backtested over 10 years
 - iTraxx Credit Relative Value: soon
 
 ## Inflation
-- [EUR Inflation Note](https://github.com/LeoYakass15/eur_inflation_note): Euro inflation curve from Bloomberg zero-coupon swaps, OAT€i repricing and a 10-year 0%-floor inflation note structured for an insurer
+- [EUR Inflation Note](https://github.com/LeoYakass15/eur_inflation_note): Euro inflation curve and a 0%-floor inflation note for an insurer
 - US Breakeven Inflation: soon
 
 ## Commodities
