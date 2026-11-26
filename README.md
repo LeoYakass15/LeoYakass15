@@ -22,7 +22,7 @@ I will publish at least one new project every week until December !
 ## FX
 - [FX Smile Pricer](https://github.com/LeoYakass15/fx_smile_pricer): UR/USD barrier options priced on the volatility smile
 - [FX Hedging Tool](https://github.com/LeoYakass15/fx_hedging_tool): Excel/VBA forward, option, collar and TARF hedges for an exporter
-- [FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): G10 carry backtest since 2002, and what the crashes cost
+- [(LIVE) FX Carry Trade](https://github.com/LeoYakass15/g10_fx_carry_trade): G10 carry backtest since 2002, tracked live every week
 
 ## Credit
 - [Merton CDS Arbitrage](https://github.com/LeoYakass15/merton_cds_arbitrage): Equity-implied credit spreads vs CDS, backtested over 10 years
