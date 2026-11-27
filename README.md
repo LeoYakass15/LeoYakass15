@@ -34,6 +34,7 @@ I will publish at least one new project every week until December !
 
 ## Commodities
 - [Commodities Hedging Tool](https://github.com/LeoYakass15/commo_hedging_tool): Excel/VBA jet fuel hedges for an airline
+- (LIVE) Commodities Carry Trade: soon
 
 ## Multi-Asset
 - [(LIVE) Futures Trend Following](https://github.com/LeoYakass15/live_futures_trend_following): Trend following on 8 futures, tracked live every week
