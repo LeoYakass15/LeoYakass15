@@ -15,7 +15,7 @@ I will publish at least one new project every week until December !
 
 ## Rates
 - [CMS Steepener](https://github.com/LeoYakass15/cms_steepener): Goldman Sachs callable CMS steepener, priced with SABR and G2++
-- [Callable Fixed Rate Note](https://github.com/LeoYakass15/callable_fixed_rate_notes): GGoldman Sachs 2035 callable note on a Hull-White tree
+- [Callable Fixed Rate Note](https://github.com/LeoYakass15/callable_fixed_rate_notes): Goldman Sachs 2035 callable note on a Hull-White tree
 - [IR Hedging Tool](https://github.com/LeoYakass15/ir_hedging_tool): EExcel/VBA swap, cap and collar hedges for a corporate loan
 - [Treasury Basis Trade](https://github.com/LeoYakass15/treasury_basis_trade): How leverage turns a 30bp Treasury basis into a big win or loss
 
